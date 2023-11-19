@@ -1,0 +1,27 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/alfie/Documents/Unreal Projects/interface_design/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/alfie/Documents/Unreal Projects/interface_design/Content/UI/Menu/main_menu.uasset",
+				"C:/Users/alfie/Documents/Unreal Projects/interface_design/Content/FirstPerson/Maps/FirstPersonMap.umap",
+				"C:/Users/alfie/Documents/Unreal Projects/interface_design/Content/UI/Menu/IMG_0036.uasset",
+				"C:/Users/alfie/Documents/Unreal Projects/interface_design/Content/UI/Menu/IMG_0037.uasset",
+				"C:/Users/alfie/Documents/Unreal Projects/interface_design/Content/UI/Menu/W_Button.uasset",
+				"C:/Users/alfie/Documents/Unreal Projects/interface_design/Content/UI/Menu/W_subButton.uasset",
+				"C:/Users/alfie/Documents/Unreal Projects/interface_design/Content/FirstPerson/Blueprints/NewBlueprint.uasset",
+				"C:/Users/alfie/Documents/Unreal Projects/interface_design/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/Z7/W1SXRCM1KAKBJOIZDLHZ47.uasset",
+				"C:/Users/alfie/Documents/Unreal Projects/interface_design/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/MW/IUN5GX28W3UDGFS2IIL4K8.uasset",
+				"C:/Users/alfie/Documents/Unreal Projects/interface_design/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/SN/CH6ISSRXDRSO7OR88NBCOM.uasset",
+				"C:/Users/alfie/Documents/Unreal Projects/interface_design/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/alfie/Documents/Unreal Projects/interface_design/Content/UI/Menu/crosshair.uasset",
+				"C:/Users/alfie/Documents/Unreal Projects/interface_design/Content/UI/Menu/health_bar.uasset",
+				"C:/Users/alfie/Documents/Unreal Projects/interface_design/Content/UI/Menu/HUD.uasset",
+				"C:/Users/alfie/Documents/Unreal Projects/interface_design/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/2D/OKI7QN1KK460HMK8AYIENY.uasset"
+			]
+		}
+	]
+}
